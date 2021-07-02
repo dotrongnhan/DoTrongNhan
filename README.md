@@ -1,7 +1,6 @@
 ### Hi there, I'm Nhan 👋
 
 ## I'm a Developer
-- 🔭 I’m currently working at [React Plus Company][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -35,6 +34,4 @@
 
 ---
 
-[website]: http://react-plus.com
 [gmail]: mailto:97dotrongnha@gmail.com
-[webdevplaylist]: http://react-plus.com.com
